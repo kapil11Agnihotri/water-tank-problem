@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+}
+
+#input-container {
+    margin: 0 auto;
+    width: 50%;
+    text-align: left;
+}
+
+#output-container {
+    margin: 20px auto;
+    width: 50%;
+    text-align: left;
+    border: 1px solid;
+}
